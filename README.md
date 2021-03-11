@@ -1,2 +1,2 @@
-# BI_Comprehensive
-BI &amp; Data Intensive Applications, a comprehensive Overview
+
+# BI & Data Intensive Applications, a comprehensive Overview
